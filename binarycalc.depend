@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1607494569 source:d:\program.c\hellow\binarycalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	"operation.h"
+	<limits.h>
+
+1606891292 d:\program.c\hellow\binarycalc\stack.h
+	"number_ADT.h"
+
+1607488586 d:\program.c\hellow\binarycalc\number_adt.h
+
+1607494456 d:\program.c\hellow\binarycalc\operation.h
+
+1607487516 source:d:\program.c\hellow\binarycalc\number_adt.c
+	<stdio.h>
+	<stdlib.h>
+	"number_ADT.h"
+
+1607489027 source:d:\program.c\hellow\binarycalc\operation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"number_ADT.h"
+	"operation.h"
+
+1606917117 source:d:\program.c\hellow\binarycalc\stack.c
+	<stdlib.h>
+	"stack.h"
+
